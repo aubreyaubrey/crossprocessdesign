@@ -1,18 +1,18 @@
 ---
-title: "From Signac to Matisse"
-date: 2020-03-14T15:40:24+06:00
-image : "images/2020-three-quarters-4.png"
-# author
-author : ["Admin"]
-# categories
-categories: ["tour"]
-tags: ["tour","visit"]
-# meta description
-description: "This is meta description"
-# save as draft
-draft: false
+title: What's Next?
+date: 2020-11-05T22:12:00+00:00
+image: images/2020-three-quarters-4.png
+author:
+- Aubrey
+categories: []
+tags: []
+description: There is learning and then there is more learning.
+
 ---
+Does art imitate life or does life imitate art? I sure as hell can't tell. Two years ago I made a drawing of a house on an island. Today an inspector showed up at 9:00 am to take a tour. 
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+The house is blue, has two staircases and eleven ethernet ports. No wifi I said. No wifi! I prefer cables. And so there is no wifi and there are cables.
 
-Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.Lorem ipsum, or lipsum as it is sometimes known, is dummy text used in laying out print, graphic or web designs. The passage is attributed to an unknown typesetter in the 15th century who is thought to have scrambled parts of Cicero's De Finibus Bonorum et Malorum for use in a type specimen book.
+Next is breathing, stretching, being, and in between, making. There are picture frames to assemble, bookshelves to construct, mushroom jerky to dry and scrolls of white paper to paint. There are places to go and people to see. There is red tape to forget and room to forge ahead. In spite of elections and lockdowns!
+
+What's next is in the making.
