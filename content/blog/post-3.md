@@ -9,4 +9,4 @@ tags: []
 description: 'Site titles don''t have to be descriptive, they just have to be memorable. '
 
 ---
-Art therapy @ [thebestsweater.com](https://thebestsweater.com). Like this one, the site is built with [Hugo](https://gohugo.io) and hosted on [Netlify](https://www.netlify.com). This is the only way I have fun making websites anymore.
+Art therapy @ [thebestsweater.com](https://thebestsweater.com). Like this one, it's a static site built with [Hugo](https://gohugo.io) and hosted on [Netlify](https://www.netlify.com). This is the only way I have fun making websites anymore.
