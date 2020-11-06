@@ -1,7 +1,7 @@
 ---
 title: But the Site Has Nothing to Do With Sweaters
 date: 2020-11-05T22:40:24.000+00:00
-image: images/2020-three-quarters-2.png
+image: images/blue-lava.png
 author:
 - Aubrey
 categories: []
