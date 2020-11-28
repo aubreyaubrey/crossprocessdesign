@@ -12,14 +12,18 @@ a:hover {
 	background: #192a55; 
 }
 
-.main-menu ul li a {
-	color: #192a55;
+.main-menu ul li a, .docs-menu ul li a {
+	color: #1c2d41;
 }	
+
+.main-menu ul li a:hover, .docs-menu ul li a:hover {
+	color: #3e5675;
+}
+
+.main-menu ul li a:active, .docs-menu ul li a:active {
+	color: #3e5675;
+}
 
 .overview, .sub-footer {
 	background: #f5e1e1;
-}
-
-.docs-menu ul li a:hover {
-	color: #6e407f;
 }
