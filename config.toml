@@ -1,6 +1,6 @@
 baseURL = "https://crossprocessdesign.com"
 languageCode = "en-us"
-title = "Hugo Whisper Theme"
+title = "Cross Process Design House"
 themesDir = "themes"
 theme = "hugo-whisper-theme"
 
@@ -18,16 +18,20 @@ summaryLength = 30
     weight = 1
 
 [[menu.main]]
-    name = "Docs"
-    url = "/docs/"
+    name = "Work"
+    url = "/work/"
     weight = 2
 
 [params]
+  custom_css = ["css/custom.css"]
   google_analytics_id=""
-  homepage_button_link = '/docs'
-  homepage_button_text = 'Read The Docs'
-  homepage_intro = 'Whisper is a documentation theme built with Hugo. The design and functionality is intentionally minimal.'
-  homepage_image = '/images/terminal.gif'
+  homepage_button_link = '/work'
+  homepage_button_text = 'Work'
+  homepage_intro = 'Welcome to Cross Process Design House'
+  homepage_image = ''
+  contact_intro = 'Contact'
+  contact = 'aubrey@crossprocessdesign.com'
+  contact_link = 'mailto:aubrey@crossprocessdesign.com'
 
   ## You can enable to add anchor links to header elements
   # enable_anchor_link = true

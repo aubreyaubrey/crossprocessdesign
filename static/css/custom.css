@@ -1,0 +1,11 @@
+
+a { 
+	color: #e2c3cc; }
+a:hover {
+    color: #f5e1e1;
+    text-decoration: underline; }
+
+.content table td {
+    padding: 0.75rem;
+    vertical-align: top;
+    border-top: 2px solid #e2c3cc;
