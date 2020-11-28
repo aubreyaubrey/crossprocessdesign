@@ -6,103 +6,41 @@
     <description>Recent content on Cross Process Design House</description>
     <generator>Hugo -- gohugo.io</generator>
     <language>en-us</language>
-    <lastBuildDate>Sat, 07 Nov 2020 15:14:39 +1000</lastBuildDate>
-    
-	<atom:link href="https://crossprocessdesign.com/index.xml" rel="self" type="application/rss+xml" />
-    
+    <lastBuildDate>Wed, 11 Nov 2020 15:14:39 +1000</lastBuildDate><atom:link href="https://crossprocessdesign.com/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>THE BEST SWEATER [ Virtual Art Gallery ]</title>
+      <link>https://crossprocessdesign.com/work/the-best-sweater/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/the-best-sweater/</guid>
+      <description>A collection of recent drawings exploring inner landscapes. Like an oversized sweater on a rainy day, pencil on paper just feels good.</description>
+    </item>
     
     <item>
-      <title>Install Hugo</title>
-      <link>https://crossprocessdesign.com/about/install-hugo/</link>
+      <title>THE EVENT BARRICADE [ Product Marketing Site ]</title>
+      <link>https://crossprocessdesign.com/work/the-event-barricade/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/the-event-barricade/</guid>
+      <description>Instead of a PDF or Powerpoint, this digital deck is a stand-alone website making use of Hugo, a static site generator, along with the Hugo-Reveal theme to create a full-screen slideshow that&amp;rsquo;s easy to pull up on any device or send as a link via email.</description>
+    </item>
+    
+    <item>
+      <title>TO TRY THE MOUNTAIN PASSES [ 200-Page Hardcover Coffee Table Book ]</title>
+      <link>https://crossprocessdesign.com/work/to-try-the-mountain-passes/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/to-try-the-mountain-passes/</guid>
+      <description>With over 500 portraits of PCT hikers to showcase, the objective with this book was to make the design disappear. We wanted to create a presentation format that was consistent enough to direct all the focus toward the portraits, but varied enough to keep the reader&amp;rsquo;s interest.</description>
+    </item>
+    
+    <item>
+      <title>ART OF ASHTANGA [ Yoga Teacher Training Manuals ]</title>
+      <link>https://crossprocessdesign.com/work/art-of-ashtanga/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://crossprocessdesign.com/about/install-hugo/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
-    </item>
-    
-    <item>
-      <title>Install Hugo</title>
-      <link>https://crossprocessdesign.com/work/install-hugo/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/work/install-hugo/</guid>
-      <description>To use this theme you will need to have Hugo installed. If you don&amp;rsquo;t already have Hugo installed please follow the official installation guide
-Check Hugo Version This theme uses Hugo Pipes to compile SCSS and minify assets.</description>
-    </item>
-    
-    <item>
-      <title>Install Theme</title>
-      <link>https://crossprocessdesign.com/about/install-theme/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/about/install-theme/</guid>
-      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
-Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
-    </item>
-    
-    <item>
-      <title>Install Theme</title>
-      <link>https://crossprocessdesign.com/work/install-theme/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/work/install-theme/</guid>
-      <description>Create a new Hugo site hugo new site mynewsite This will create a fresh Hugo site in the folder mynewsite.
-Install theme Copy or git clone this theme into the sites themes folder mynewsite/themes</description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://crossprocessdesign.com/about/configure/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/about/configure/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
-    </item>
-    
-    <item>
-      <title>Configuration</title>
-      <link>https://crossprocessdesign.com/work/configure/</link>
-      <pubDate>Mon, 11 Feb 2019 19:30:08 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/work/configure/</guid>
-      <description>Syntax highlighting and menus can be configured via &lt;code&gt;config.toml&lt;/code&gt;.</description>
-    </item>
-    
-    <item>
-      <title>Specimen</title>
-      <link>https://crossprocessdesign.com/about/specimen/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/about/specimen/</guid>
-      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
-    </item>
-    
-    <item>
-      <title>Specimen</title>
-      <link>https://crossprocessdesign.com/work/specimen/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/work/specimen/</guid>
-      <description>Markdown Test Page  Headings Paragraphs Blockquotes Lists Horizontal rule Table Code Inline elements   Headings Heading one Sint sit cillum pariatur eiusmod nulla pariatur ipsum. Sit laborum anim qui mollit tempor pariatur nisi minim dolor.</description>
-    </item>
-    
-    <item>
-      <title>Hugo Whisper</title>
-      <link>https://crossprocessdesign.com/about/example/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/about/example/</guid>
-      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
-    </item>
-    
-    <item>
-      <title>Hugo Whisper</title>
-      <link>https://crossprocessdesign.com/work/example/</link>
-      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
-      
-      <guid>https://crossprocessdesign.com/work/example/</guid>
-      <description>&lt;p&gt;Whisper is a minimal documentation theme built for Hugo. The design &amp;amp; functionality is intentionally minimal.&lt;/p&gt;</description>
+      <guid>https://crossprocessdesign.com/work/art-of-ashtanga/</guid>
+      <description>A series of training manuals and cheat sheets featuring over 70 hand-drawn pencil illustrations of each pose in the ashtanga yoga primary series.</description>
     </item>
     
   </channel>
