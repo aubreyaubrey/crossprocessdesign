@@ -1,11 +1,25 @@
 
 a { 
-	color: #e2c3cc; }
+	color: #e2c3cc; 
+}
+
 a:hover {
     color: #f5e1e1;
-    text-decoration: underline; }
+    text-decoration: underline; 
+}
 
-.content table td {
-    padding: 0.75rem;
-    vertical-align: top;
-    border-top: 2px solid #e2c3cc;
+.button {
+	background: #192a55; 
+}
+
+.main-menu ul li a {
+	color: #192a55;
+}	
+
+.overview, .sub-footer {
+	background: #f5e1e1;
+}
+
+.docs-menu ul li a:hover {
+	color: #6e407f;
+}
