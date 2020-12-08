@@ -2,7 +2,7 @@
 title: 'TO TRY THE MOUNTAIN PASSES [ 200-Page Hardcover Coffee Table Book ]'
 date: 2020-13-11T19:30:08+10:00
 draft: false
-weight: 3
+weight: 1002
 summary: With over 500 portraits of PCT hikers to showcase, the objective with this book was to make the design disappear. We wanted to create a presentation format that was consistent enough to direct all the focus toward the portraits, but varied enough to keep the reader's interest.
 ---
 
@@ -14,7 +14,7 @@ summary: With over 500 portraits of PCT hikers to showcase, the objective with t
 
 ![cross process design house book layout - pacific crest trail portrait series - cover](/images/work/cross-process-design-house-to-try-the-mountain-passes-cover.jpg "cover artwork and design - to try the mountain passes")
 
-In early 2019 my friend Andrew Burns started a new Instagram account to post the amazing portraits he was taking of PCT hikers in Southern California. As the year went on and he began traveling farther and farther from home to catch thru-hikers on various sections of the trail, the landscape and the condition of the hikers began to change. The faces, clothing, backpacks and stories were all captivating.
+In early 2019 my friend Andrew Burns started a new Instagram account, <a href="https://instagram.com/pct_people_project" target="_blank">@pct_people_project</a>, to post the amazing portraits he was taking of PCT hikers in Southern California. As the year went on and he began traveling farther and farther from home to catch thru-hikers on various sections of the trail, the landscape and the condition of the hikers began to change. The faces, clothing, backpacks and stories were all captivating.
 
 I talked to Andrew one day about how inspiring the series was – real people, all on the trail for different reasons but unified in many of their goals. He told me he had so many photos he was thinking about compiling them into a book. It would almost be like a year book for the hikers who were featured. I had just moved to Hawai'i and was pining for the mountains. I volunteered to help with art and design if he really went through with publishing a book.
 
@@ -47,3 +47,5 @@ This project challenged me in all aspects of my design practice. From the style 
 ![cross process design house book layout - pacific crest trail portrait series - community spread](/images/work/cross-process-design-house-to-try-the-mountain-passes-community-spread.jpg "Community spread - to try the mountain passes")
 
 In the end the book printed on time and everyone who had supported the project got their books before Christmas. It was a feat and a piece I'm proud to have in my collection.
+
+Andrew's photography portfolio can be found at <a href="https://www.andrewburnsphoto.com" target="_blank">andrewburnsphoto.com</a>

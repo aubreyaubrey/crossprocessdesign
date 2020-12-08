@@ -2,7 +2,7 @@
 title: 'THE EVENT BARRICADE [ Product Marketing Site ]'
 date: 2020-25-11
 draft: false
-weight: 2
+weight: 1001
 summary: Instead of a PDF or Powerpoint, this digital deck is a stand-alone website making use of Hugo, a static site generator, along with the Hugo-Reveal theme to create a full-screen slideshow that's easy to pull up on any device or send as a link via email.
 ---
 
@@ -24,5 +24,5 @@ The deck was designed in Indesign and originally shown as a PDF. Since I had jus
 
 ![cross process design house - digital brochure static site for otw safety - features slide](/images/work/cross-process-design-house-otw-safety-event-barricade-digital-brochure-sample-slide2.png "digital brochure features slide")
 
-Check out the full presentation at [thebillboardbarricade.com](https://thebillboardbarricade.com).
+Check out the full presentation at <a href="https://thebillboardbarricade.com" target="_blank">thebillboardbarricade.com</a>
 

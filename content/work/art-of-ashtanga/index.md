@@ -1,7 +1,7 @@
 ---
 title: 'ART OF ASHTANGA [ Yoga Teacher Training Manuals ]'
 date: 2019-02-11T19:27:37+10:00
-weight: 4
+weight: 1003
 summary: A series of training manuals and cheat sheets featuring over 70 hand-drawn pencil illustrations of each pose in the ashtanga yoga primary series. 
 ---
 
@@ -11,13 +11,13 @@ summary: A series of training manuals and cheat sheets featuring over 70 hand-dr
 | ----------- | -----------: |
 | Design | 2019 |
 
-Welcome to most technically challenging print project I have ever dared to take on! Creating this series of training manuals was a labor of love, not only for me but also for my former yoga teacher, Laura, and the artist who volunteered to draw more than 70 different postures from the ashtanga yoga primary series – the awesomely talented [Shelley Zentner](http://shelleyzen.us/home/catalog/art-of-astanga/). 
+Welcome to most technically challenging print project I have ever dared to take on! Creating this series of training manuals was a labor of love, not only for me but also for my former yoga teacher, Laura, and the artist who volunteered to draw more than 70 different postures from the ashtanga yoga primary series – the awesomely talented <a href="http://shelleyzen.us/home/catalog/art-of-astanga/" target="_blank">Shelley Zentner</a> 
 
 ![cross process design house - Art of Ashtanga - primary series cheat sheet page 1](/images/work/cross-process-design-house-Ashtanga-Yoga-Primary-Series-CHEAT-SHEET-pg1.jpg "Ashtanga Yoga Primary Series Training Manual - primary series cheat sheet page 1")
 
 ![cross process design house - Art of Ashtanga - primary series cheat sheet page 2](/images/work/cross-process-design-house-Ashtanga-Yoga-Primary-Series-CHEAT-SHEET-pg2.jpg "Ashtanga Yoga Primary Series Training Manual - primary series cheat sheet page 2")
 
-This project had been one of Laura's pipe dreams for a while. She is an accomplished ashtanga style teacher and the owner of [Tahoe Yoga Shala](https://tahoeyogashala.com) in South Lake Tahoe. She holds regular teacher trainings emphasizing the Sanskrit names for poses, how to properly cue students and of course how to precisely embody each posture. She wanted to create an official training manual that honored the study and practice of the traditional ashtanga style of yoga. She and one of her students, Shelley, teamed up to create the most beautiful set of drawings of the poses I have ever seen. 
+This project had been one of Laura's pipe dreams for a while. She is an accomplished ashtanga style teacher and the owner of <a href="https://tahoeyogashala.com" target="_blank">Tahoe Yoga Shala</a> in South Lake Tahoe. She holds regular teacher trainings emphasizing the Sanskrit names for poses, how to properly cue students and of course how to precisely embody each posture. She wanted to create an official training manual that honored the study and practice of the traditional ashtanga style of yoga. She and one of her students, Shelley, teamed up to create the most beautiful set of drawings of the poses I have ever seen. 
 
 Laura posed for each one and Shelley poured months of love and techinal skill into the series. The original drawings were showcased at the studio and other galleries before they were digitized. Preparing copies for the manuals might have been more difficult than making them in the first place!  
 

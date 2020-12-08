@@ -2,7 +2,7 @@
 title: 'THE BEST SWEATER [ Virtual Art Gallery ]'
 date: 2020-25-11
 draft: false
-weight: 1
+weight: 1000
 summary: A collection of recent drawings exploring inner landscapes. Like an oversized sweater on a rainy day, pencil on paper just feels good. 
 ---
 
@@ -24,7 +24,7 @@ This site is built with [Hugo](https://gohugo.io), a static site generator, util
 
 Whenever I make a new drawing, I photograph it, transfer the files to my computer and size them in photoshop, add a new markdown file and push the changes to a git repository. Netlify pulls the updated version from git automatically and the new drawings are live.  
 
-Walk with me – [thebestsweater.com](https://thebestsweater.com).
+Walk with me – <a href="https://thebestsweater.com" target="_blank">thebestsweater.com</a>
 
 
 

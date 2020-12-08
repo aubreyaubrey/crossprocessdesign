@@ -30,6 +30,7 @@ summaryLength = 30
   homepage_intro = 'Welcome to Cross Process Design House'
   homepage_image = ''
   contact_intro = 'Contact'
+  contact_name = 'Aubrey J Coon, Owner & Creative Director'
   contact = 'aubrey@crossprocessdesign.com'
   contact_link = 'mailto:aubrey@crossprocessdesign.com'
 
@@ -37,15 +38,15 @@ summaryLength = 30
   # enable_anchor_link = true
 
   [params.homepage_meta_tags]
-    meta_description = "Hugo Whisper is a documentation theme built with Hugo."
-    meta_og_title = "Hugo Whisper Theme"
+    meta_description = "Design and Marketing Services"
+    meta_og_title = "Cross Process Design House"
     meta_og_type = "website"
-    meta_og_url = "https://hugo-whisper.netlify.app"
-    meta_og_image = "https://raw.githubusercontent.com/JugglerX/hugo-whisper-theme/master/images/tn.png"
-    meta_og_description = "Hugo Whisper is a documentation theme built with Hugo."
+    meta_og_url = "https://crossprocessdesign.com"
+    meta_og_image = ""
+    meta_og_description = "Cross Process Design House specializes in design and marketing services for new and established brands."
     meta_twitter_card = "summary"
-    meta_twitter_site = "@zerostaticio"
-    meta_twitter_creator = "@zerostaticio"
+    meta_twitter_site = "@aubreyaubrey"
+    meta_twitter_creator = "@aubreyaubrey"
 
   [params.logo]
       mobile = "/images/logo-mobile.svg"
