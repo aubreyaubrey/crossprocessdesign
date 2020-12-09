@@ -24,7 +24,7 @@ This site is built with [Hugo](https://gohugo.io), a static site generator, util
 
 Whenever I make a new drawing, I photograph it, transfer the files to my computer and size them in photoshop, add a new markdown file and push the changes to a git repository. Netlify pulls the updated version from git automatically and the new drawings are live.  
 
-Walk with me – <a href="https://thebestsweater.com" target="_blank">thebestsweater.com</a>
+Walk with me – [thebestsweater.com](https://thebestsweater.com)
 
 
 

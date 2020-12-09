@@ -24,5 +24,5 @@ The deck was designed in Indesign and originally shown as a PDF. Since I had jus
 
 ![cross process design house - digital brochure static site for otw safety - features slide](/images/work/cross-process-design-house-otw-safety-event-barricade-digital-brochure-sample-slide2.png "digital brochure features slide")
 
-Check out the full presentation at <a href="https://thebillboardbarricade.com" target="_blank">thebillboardbarricade.com</a>
+Check out the full presentation at [thebillboardbarricade.com](https://thebillboardbarricade.com)
 
