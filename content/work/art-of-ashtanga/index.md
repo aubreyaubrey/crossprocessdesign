@@ -11,7 +11,7 @@ summary: A series of training manuals and cheat sheets featuring over 70 hand-dr
 | ----------- | -----------: |
 | Design | 2019 |
 
-Welcome to most technically challenging print project I have ever dared to take on! Creating this series of training manuals was a labor of love, not only for me but also for my former yoga teacher, Laura, and the artist who volunteered to draw more than 70 different postures from the ashtanga yoga primary series – the awesomely talented <a href="http://shelleyzen.us/home/catalog/art-of-astanga/" target="_blank">Shelley Zentner</a> 
+Welcome to most technically challenging print project I have ever dared to take on! Creating this series of training manuals was a labor of love, not only for me but also for my former yoga teacher, Laura, and the artist who volunteered to draw more than 70 different postures from the ashtanga yoga primary series – the awesomely talented <a href="http://shelleyzen.us/home/catalog/art-of-astanga/" target="_blank">Shelley Zentner</a>. 
 
 ![cross process design house - Art of Ashtanga - primary series cheat sheet page 1](/images/work/cross-process-design-house-Ashtanga-Yoga-Primary-Series-CHEAT-SHEET-pg1.jpg "Ashtanga Yoga Primary Series Training Manual - primary series cheat sheet page 1")
 
