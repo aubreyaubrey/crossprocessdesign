@@ -31,3 +31,7 @@ a:hover {
 .overview, .sub-footer {
 	background: #f5e1e1;
 }
+
+hr {
+	border:1px solid #dee2e6;
+}
