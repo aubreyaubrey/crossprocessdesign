@@ -1,53 +1,77 @@
-baseURL = "https://crossprocessdesign.com"
-languageCode = "en-us"
+## Basic Configuration
+baseurl = "https://example.com/"
+languageCode = "en"
+
 title = "Cross Process Design House"
-themesDir = "themes"
-theme = "hugo-whisper-theme"
+theme = "hyde-hyde"
 
-pygmentsCodeFences = true
-pygmentsCodefencesGuessSyntax = true
-pygmentsUseClasses = true
+## Hugo Built-in Features
+# disqusShortname = "your-disqus-shortname"
+# googleAnalytics = "your-google-analytics-id"
+# enableRobotsTXT = true
 
-# Controls how many words are printed in the content summary on the docs homepage.
-# See https://gohugo.io/content-management/summaries/
-summaryLength = 30
+# summarylength = 30
 
-[[menu.main]]
-    name = "Home"
-    url = "/"
-    weight = 1
+#paginate = 5
 
-[[menu.main]]
-    name = "Work"
-    url = "/work/"
-    weight = 2
-
+## Site Settings
 [params]
-  custom_css = ["css/custom.css"]
-  google_analytics_id=""
-  homepage_button_link = '/work'
-  homepage_button_text = 'Work'
-  homepage_intro = 'Welcome to Cross Process Design House'
-  homepage_image = ''
-  contact_intro = 'Contact'
-  contact_name = 'Aubrey J Coon, Owner & Creative Director'
-  contact = 'aubrey@crossprocessdesign.com'
-  contact_link = 'mailto:aubrey@crossprocessdesign.com'
+    author = "Aubrey Coon"
+    title = "Cross Process Design House"
+    description = "by Aubrey Coon"
+    # authorimage = "/images/author-image.png"
+    dateformat = "Jan 2, 2006"
 
-  ## You can enable to add anchor links to header elements
-  # enable_anchor_link = true
+    # sidebar, copyright & license
+    logoimage = "/images/logo_cross_process_design_house_light_pink.png"
+    copyright = "Aubrey Coon"
+    since = 2013
+    license = "CC BY-SA 4.0"
+    licenseURL = "https://creativecommons.org/licenses/by-sa/4.0"
+    showBuiltWith = true
 
-  [params.homepage_meta_tags]
-    meta_description = "Design and Marketing Services"
-    meta_og_title = "Cross Process Design House"
-    meta_og_type = "website"
-    meta_og_url = "https://crossprocessdesign.com"
-    meta_og_image = ""
-    meta_og_description = "Cross Process Design House specializes in design and marketing services for new and established brands."
-    meta_twitter_card = "summary"
-    meta_twitter_site = "@aubreyaubrey"
-    meta_twitter_creator = "@aubreyaubrey"
+    # https://highlightjs.org
+    highlightjs = true
+    highlightjsstyle = "github"
+    
+    # please choose either GraphComment or Disqus or Utterances
+    #GraphCommentId = "..."
+    #UtterancesRepo = "..." # https://utteranc.es/
+    #UtterancesIssueTerm = "..." # pathname, url, title, og:title
+    #UtterancesTheme = "..." # github-light or github-dark
 
-  [params.logo]
-      mobile = "/images/logo-mobile.svg"
-      standard  = "/images/logo.svg"
+    # Table of contents
+    #toc = none, "hugo", or "tocbot"
+
+## Social Accounts
+[params.social]
+    # github = "<username>"
+    # instagram = "<username>"
+    # xing = "<username>"
+    # linkedin = "<username>"
+    # twitter = "<username>"
+    # facebook = "<username>"
+    # microblog = "<username>"
+    # stackoverflow = "<username>"
+    # telegram = "<username>"
+    # orcid = "<xxxx-xxxx-xxxx-xxxx>"
+    # email = "your-email@example.com"
+    # gravatar = "your-email@example.com"
+    # pgpkey = "<path-to-your-key-in-/static>"
+
+## Main Menu
+[[menu.main]]
+    name = "Posts"
+    weight = 100
+    identifier = "posts"
+    url = "/posts/"
+[[menu.main]]
+    name = "Specialties"
+    weight = 200
+    identifier = "specialties"
+    url = "/specialties/"
+[[menu.main]]
+    name = "About"
+    identifier = "about"
+    weight = 300
+    url = "/about/"

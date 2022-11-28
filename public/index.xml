@@ -8,39 +8,84 @@
     <language>en-us</language>
     <lastBuildDate>Wed, 11 Nov 2020 15:14:39 +1000</lastBuildDate><atom:link href="https://crossprocessdesign.com/index.xml" rel="self" type="application/rss+xml" />
     <item>
+      <title>ALL IN GOOD TIME [ Activity Tracking and Reporting Method ]</title>
+      <link>https://crossprocessdesign.com/work/999-all-in-good-time/</link>
+      <pubDate>Wed, 12 Aug 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/999-all-in-good-time/</guid>
+      <description>After almost two years of entering every project, task and subtask into Asana, keeping meticulous status notes and integrating Hourstack to plan and track hours, I still had no way of showing my leadership team where projects stood and how resources were being allocated. I needed a way to categorize and prioritize projects and tasks, track time and activity plus create monthly, quarterly and annual reports. With a little help from my PM guru I designed a spreadsheet to do all of this at once.</description>
+    </item>
+    
+    <item>
       <title>THE BEST SWEATER [ Virtual Art Gallery ]</title>
-      <link>https://crossprocessdesign.com/work/the-best-sweater/</link>
+      <link>https://crossprocessdesign.com/work/1000-the-best-sweater/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://crossprocessdesign.com/work/the-best-sweater/</guid>
+      <guid>https://crossprocessdesign.com/work/1000-the-best-sweater/</guid>
       <description>A collection of recent drawings exploring inner landscapes. Like an oversized sweater on a rainy day, pencil on paper just feels good.</description>
     </item>
     
     <item>
       <title>THE EVENT BARRICADE [ Product Marketing Site ]</title>
-      <link>https://crossprocessdesign.com/work/the-event-barricade/</link>
+      <link>https://crossprocessdesign.com/work/1001-the-event-barricade/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://crossprocessdesign.com/work/the-event-barricade/</guid>
+      <guid>https://crossprocessdesign.com/work/1001-the-event-barricade/</guid>
       <description>Instead of a PDF or Powerpoint, this digital deck is a stand-alone website making use of Hugo, a static site generator, along with the Hugo-Reveal theme to create a full-screen slideshow that&amp;rsquo;s easy to pull up on any device or send as a link via email.</description>
     </item>
     
     <item>
       <title>TO TRY THE MOUNTAIN PASSES [ 200-Page Hardcover Coffee Table Book ]</title>
-      <link>https://crossprocessdesign.com/work/to-try-the-mountain-passes/</link>
+      <link>https://crossprocessdesign.com/work/1002-to-try-the-mountain-passes/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://crossprocessdesign.com/work/to-try-the-mountain-passes/</guid>
+      <guid>https://crossprocessdesign.com/work/1002-to-try-the-mountain-passes/</guid>
       <description>With over 500 portraits of PCT hikers to showcase, the objective with this book was to make the design disappear. We wanted to create a presentation format that was consistent enough to direct all the focus toward the portraits, but varied enough to keep the reader&amp;rsquo;s interest.</description>
     </item>
     
     <item>
       <title>ART OF ASHTANGA [ Yoga Teacher Training Manuals ]</title>
-      <link>https://crossprocessdesign.com/work/art-of-ashtanga/</link>
+      <link>https://crossprocessdesign.com/work/1003-art-of-ashtanga/</link>
       <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
       
-      <guid>https://crossprocessdesign.com/work/art-of-ashtanga/</guid>
+      <guid>https://crossprocessdesign.com/work/1003-art-of-ashtanga/</guid>
       <description>A series of training manuals and cheat sheets featuring over 70 hand-drawn pencil illustrations of each pose in the ashtanga yoga primary series.</description>
+    </item>
+    
+    <item>
+      <title>TAHOE YOGA SHALA [ Branding &amp; Marketing Materials ]</title>
+      <link>https://crossprocessdesign.com/work/1004-tahoe-yoga-shala-branding-and-marketing/</link>
+      <pubDate>Mon, 11 Feb 2019 19:27:37 +1000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/1004-tahoe-yoga-shala-branding-and-marketing/</guid>
+      <description>Branding and marketing materials for a Yoga Studio</description>
+    </item>
+    
+    <item>
+      <title>TAHOE YOGA SHALA [ Logo Design Process ]</title>
+      <link>https://crossprocessdesign.com/work/1005-tahoe-yoga-shala-logo-design-process/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/1005-tahoe-yoga-shala-logo-design-process/</guid>
+      <description>It starts with a conversation, then a few sketches, then a few rough drafts, then a few developed drafts, finally fonts and colors, presto – logo.</description>
+    </item>
+    
+    <item>
+      <title>OTW SAFETY [ Branding and Marketing ]</title>
+      <link>https://crossprocessdesign.com/work/1006-otw-safety-branding-and-marketing/</link>
+      <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/1006-otw-safety-branding-and-marketing/</guid>
+      <description>In 2018 I completed a refresh of OTW Safety&amp;rsquo;s identity, marketing materials and website, focusing on high contrast visuals, clean lines, and bright colors to match a renewed emphasis on the engineering capabilities of the company and the high visibility products they produce.</description>
+    </item>
+    
+    <item>
+      <title>YAKULT [ Marketing Site Built with Parallax Scrolling ]</title>
+      <link>https://crossprocessdesign.com/work/1007-yakult-marketing-site/</link>
+      <pubDate>Sun, 09 Feb 2020 00:00:00 +0000</pubDate>
+      
+      <guid>https://crossprocessdesign.com/work/1007-yakult-marketing-site/</guid>
+      <description>This temporary marketing site was built as a companion to a 2014 television advertising campaign for Yakult. I designed mock-ups that would complement the styling of the commercials and used jquery to create parallax scrolling, clouds that moved on and off the screen and cherry blossoms that floated down in the background continuously. This site served as a placeholder on yakultusa.com while the company rebuilt their main website.</description>
     </item>
     
   </channel>
