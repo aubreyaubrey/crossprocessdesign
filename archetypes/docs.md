@@ -1,10 +1,10 @@
 ---
-title: "{{ replace .TranslationBaseName "-" " " | title }}"
+title: {{ replace .Name "-" " " | title }}
+description:
+toc: true
+authors: []
 date: {{ .Date }}
+lastmod: {{ .Date }}
 draft: false
-weight: 100
+weight: 1
 ---
-
-Lorem markdownum aequalis strigis. Saetigeri iubeas, vultu huic alvum nondum
-de obside ut laniavit arbor palmis, cum quin. Rupes vetat videndo, armigerae
-crimen habet Priamum nec.
